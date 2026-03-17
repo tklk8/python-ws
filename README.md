@@ -5,7 +5,7 @@
 
 ---
 
-Telegram交流反馈群组：https://t.me/eooceu
+
 
 </div>
 
@@ -53,11 +53,3 @@ function getRandomArray(array) {
   const randomIndex = Math.floor(Math.random() * array.length);
   return array[randomIndex];
 }
-```
-
-# 相关项目
-- Nodejs版，连接直达：[node-ws](https://github.com/eooce/node-ws)
-- Java 版，链接直达：[java-ws](https://github.com/eooce/java-ws)
-- Golang版，连接直达：[golang-ws](https://github.com/eooce/node-ws/tree/golang)
-
-版权所有 ©2025 `eooce`
